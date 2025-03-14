@@ -2,7 +2,6 @@
 
 A modern, responsive React application for discovering and managing your favorite movies. Built with React, Tailwind CSS, and powered by the TMDB API.
 
-![MovieDB Banner](./src/assets/movieicon.png)
 
 ## 🌟 Features
 
