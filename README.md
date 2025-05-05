@@ -10,6 +10,25 @@ A modern, responsive React application for discovering and managing your favorit
 🔗 **Live Demo:** *https://cool-churros-f65dec.netlify.app/*  
 📸 **Screenshots:** *See below*
 
+## 📸 Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="./src/assets/Screenshot 2025-04-02 001617.png" width="250" /></td>
+      <td><img src="./src/assets/Screenshot 2025-04-02 001643.png" width="250" /></td>
+      <td><img src="./src/assets/Screenshot 2025-04-02 001701.png" width="250" /></td>
+      <td><img src="./src/assets/Screenshot 2025-04-02 001718.png" width="250" /></td>
+    </tr>
+    <tr>
+      <td><img src="./src/assets/Screenshot 2025-04-02 001847.png" width="250" /></td>
+      <td><img src="./src/assets/Screenshot 2025-04-02 001904.png" width="250" /></td>
+      <td><img src="./src/assets/Screenshot 2025-04-02 001959.png" width="250" /></td>
+      <td></td> <!-- leave last cell empty for 7 images -->
+    </tr>
+  </table>
+</div>
+
 
 ## 🌟 Features
 
