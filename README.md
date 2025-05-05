@@ -1,6 +1,14 @@
 # MovieDB - Your Ultimate Movie Database
 
+![Stars](https://img.shields.io/github/stars/Vashu2003/MovieDB?style=social)
+![License](https://img.shields.io/github/license/Vashu2003/MovieDB)
+![Issues](https://img.shields.io/github/issues/Vashu2003/MovieDB)
+![Forks](https://img.shields.io/github/forks/Vashu2003/MovieDB?style=social)
+
 A modern, responsive React application for discovering and managing your favorite movies. Built with React, Tailwind CSS, and powered by the TMDB API.
+
+🔗 **Live Demo:** *https://cool-churros-f65dec.netlify.app/*  
+📸 **Screenshots:** *See below*
 
 
 ## 🌟 Features
